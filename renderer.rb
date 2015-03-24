@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'bundler/setup'
 require 'chunky_png'
-
 require 'opengl'
 require 'glut'
 

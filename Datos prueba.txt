@@ -1,0 +1,47 @@
+Datos de prueba:
+
+Fondo:
+    Color (0.0, 0.0, 0.0)
+    Luz ambiente (0.2, 0.2, 0.2)
+Camara
+    e (278.0, 273.0, -800.0)
+    Field Of view (39.31)
+    d= 0.035
+    pv= (278.0, 273.0, -700)
+    up=(0.0, 1.0, 0.0)
+Luces
+    Luz1:
+        Color(0.8, 0.7, 0.6)
+        Posicion(278.0, 547.0, 279.5)
+
+Objetos:
+    Triangulo 1(piso1)
+        V1(552.8, 0, )
+        V2(0, 0, 0)
+        V3(0, 0, 559.2)
+        difuso (0.0, 0.4, 0.0)
+        especular( 0.0, 0.0, 0.0)
+        ne= 1.0
+        coeficiente reflectivo (0.5, 0.5, 0.5)
+    Triangulo 2(piso2)
+        V1(552.8, 0, 0)
+        V2(549.6, 0, 552.8)
+        V3(0, 0, 559.2)
+        difuso (0.0, 0.4, 0.0)
+        especular( 0.0, 0.0, 0.0)
+        ne= 1.0
+        coeficiente reflectivo (0.5, 0.5, 0.5)
+    Esfera 1
+        Centro (370.0, 120.0, 370.0)
+        Radio 120
+        Difuso(0.156, 0.126, 0.506)
+        Especular(0.0, 0.0, 0.0)
+        ne = 1.0
+        coef reflectivo no tiene
+    Esfera 2
+        Centro (130.0, 100.0, 130.0)
+        Radio 100
+        Difuso(0.656, 0.626, 0.107)
+        Especular(0.0, 0.0, 0.0)
+        ne = 1.0
+        coef reflectivo (0.4, 0.4, 0.4)
